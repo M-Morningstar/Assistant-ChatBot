@@ -23,11 +23,11 @@ Getting Started
 Begin by cloning the repository, installing dependencies, and running the chatbot to explore its functionalities.
 
 Installation
-  git clone [repository-url]
-  cd [project-folder]
-  pip install -U sentence-transformers
+
+    git clone [repository-url]
+    cd [project-folder]
+    pip install -U sentence-transformers
   
 Usage
-  python chatbot.py
 
-Interact with the chatbot following the on-screen instructions.
+    python chatbot.py
